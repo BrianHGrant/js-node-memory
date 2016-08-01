@@ -1,0 +1,12 @@
+#game-space {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+body {
+  background-color: yellow;
+}
+
+p {
+  color: blue;
+}
