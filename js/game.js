@@ -21,3 +21,5 @@ Game.prototype.guess = function(guessSquare) {
 
   }
 };
+
+exports.gameModule = Game;
